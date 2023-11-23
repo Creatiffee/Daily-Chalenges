@@ -1,0 +1,8 @@
+C:\Users\C.BRENNAN23\OneDrive\Apprenticeship\SoftDevFundamentals\LearningC#\DailyCodeChallenges\D2\bin\Debug\D2.exe.config
+C:\Users\C.BRENNAN23\OneDrive\Apprenticeship\SoftDevFundamentals\LearningC#\DailyCodeChallenges\D2\bin\Debug\D2.exe
+C:\Users\C.BRENNAN23\OneDrive\Apprenticeship\SoftDevFundamentals\LearningC#\DailyCodeChallenges\D2\bin\Debug\D2.pdb
+C:\Users\C.BRENNAN23\OneDrive\Apprenticeship\SoftDevFundamentals\LearningC#\DailyCodeChallenges\D2\obj\Debug\D2.csproj.AssemblyReference.cache
+C:\Users\C.BRENNAN23\OneDrive\Apprenticeship\SoftDevFundamentals\LearningC#\DailyCodeChallenges\D2\obj\Debug\D2.csproj.SuggestedBindingRedirects.cache
+C:\Users\C.BRENNAN23\OneDrive\Apprenticeship\SoftDevFundamentals\LearningC#\DailyCodeChallenges\D2\obj\Debug\D2.csproj.CoreCompileInputs.cache
+C:\Users\C.BRENNAN23\OneDrive\Apprenticeship\SoftDevFundamentals\LearningC#\DailyCodeChallenges\D2\obj\Debug\D2.exe
+C:\Users\C.BRENNAN23\OneDrive\Apprenticeship\SoftDevFundamentals\LearningC#\DailyCodeChallenges\D2\obj\Debug\D2.pdb
